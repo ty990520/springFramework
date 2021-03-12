@@ -4,7 +4,8 @@ spring프레임워크를 공부한 내용을 정리합니다.
 ## 1. 스프링 개발 환경 구축
 * [lombok의 이해](https://github.com/ty990520/springFramework/blob/main/01.md)
 * [의존성 주입](https://github.com/ty990520/springFramework/blob/main/02.md)
-
+* [Oracle DB 연동]()
+* [MyBatis 연동]()
 <br>
 
 ## 2. 스프링 MVC 설정

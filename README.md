@@ -7,10 +7,19 @@ spring프레임워크를 공부한 내용을 정리합니다.
 * [[youtube] 구멍가게코딩단](https://www.youtube.com/channel/UCDSOG5uxzNiTPrlAgbE59dA/videos) - 응용
 <br>
 
+## 0. 스프링 기초
+* [JSP / Sevlet]()
+* [의존성 주입 - DI(Dependency Injection)]() : 한성대학교 영상 참고
+* [AOP(Aspect Oriented Programming)]()
+* [MySQL Workbench]()
+* [DB Programming]()
+* [Spring MVC]()
+* [Spring Web Form]()
+
 
 ## 1. 스프링 개발 환경 구축
 * [lombok의 이해](https://github.com/ty990520/springFramework/blob/main/01.md)
-* [의존성 주입](https://github.com/ty990520/springFramework/blob/main/02.md)
+* [의존성 주입](https://github.com/ty990520/springFramework/blob/main/02.md) : 구멍가게코딩단 영상 참고
 * [Oracle DB 연동](https://github.com/ty990520/springFramework/blob/main/03.md)
 * [MyBatis 연동](https://github.com/ty990520/springFramework/blob/main/04.md)
 <br>

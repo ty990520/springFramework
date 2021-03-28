@@ -8,12 +8,12 @@ spring프레임워크를 공부한 내용을 정리합니다.
 <br>
 
 ## 0. 스프링 기초
-* [JSP / Sevlet]()
+* [JSP / Sevlet]() - 아직!
 * [의존성 주입 - DI(Dependency Injection)](https://github.com/ty990520/springFramework/blob/main/06.md) : 한성대학교 영상 참고
 * [AOP(Aspect Oriented Programming)](https://github.com/ty990520/springFramework/blob/main/07.md)
-* [DB Programming]()
-* [Spring MVC]()
-* [Spring Web Form]()
+* [DB Programming]()- 아직!
+* [Spring MVC]()- 아직!
+* [Spring Web Form]()- 아직!
 
 
 ## 1. 스프링 개발 환경 구축

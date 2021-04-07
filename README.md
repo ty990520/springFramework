@@ -15,7 +15,7 @@ spring프레임워크를 공부한 내용을 정리합니다.
 * [AOP(Aspect Oriented Programming)](https://github.com/ty990520/springFramework/blob/main/07.md)
 * [DB Programming]
 * [@configuration / xml -> java파일 분리](https://github.com/ty990520/springFramework/blob/main/11.md)
-* [웹 프로그래밍 설계 모델](https://github.com/ty990520/springFramework/blob/main/12.md) ✏
+* [웹 프로그래밍 설계 모델](https://github.com/ty990520/springFramework/blob/main/12.md) 📌
 * [Spring MVC](https://github.com/ty990520/springFramework/blob/main/05.md) ✏
 * 
 * [Spring Web Form]

@@ -22,8 +22,8 @@ spring프레임워크를 공부한 내용을 정리합니다.
 * [@configuration / xml -> java파일 분리](https://github.com/ty990520/springFramework/blob/main/11.md)
 * [웹 프로그래밍 설계 모델](https://github.com/ty990520/springFramework/blob/main/12.md) 📌
 * [Spring MVC](https://github.com/ty990520/springFramework/blob/main/05.md) ✏
-* 
-* [Spring Web Form]
+* 연결
+  * 세션/쿠키/리다이렉트/인터셉트/Database/JDBC/jdbcTemplate/커넥션풀 내용 포함
 
 
 ## 1. 스프링 개발 환경 구축

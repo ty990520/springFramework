@@ -10,12 +10,13 @@ spring프레임워크를 공부한 내용을 정리합니다.
 
 ## 0. 스프링 기초
 * [spring framework 개념](https://github.com/ty990520/springFramework/blob/main/08.md)
-* [의존성 주입 - DI(Dependency Injection)](https://github.com/ty990520/springFramework/blob/main/09.md)
+* [의존성 주입 - DI(Dependency Injection)](https://github.com/ty990520/springFramework/blob/main/09.md) ✏
 * [생명주기(Life Cycle)](https://github.com/ty990520/springFramework/blob/main/10.md)
 * [AOP(Aspect Oriented Programming)](https://github.com/ty990520/springFramework/blob/main/07.md)
 * [DB Programming]
 * [@configuration / xml -> java파일 분리](https://github.com/ty990520/springFramework/blob/main/11.md)
-* [Spring MVC](https://github.com/ty990520/springFramework/blob/main/05.md)
+* [웹 프로그래밍 설계 모델](https://github.com/ty990520/springFramework/blob/main/12.md) ✏
+* [Spring MVC](https://github.com/ty990520/springFramework/blob/main/05.md) ✏
 * 
 * [Spring Web Form]
 

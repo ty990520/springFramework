@@ -1,5 +1,8 @@
 # springFramework
 spring프레임워크를 공부한 내용을 정리합니다.
+* ✏ : 현재 작성 중
+* 📌 : 중요한 
+
 
 ### 참고 링크
 * [[kocw] 웹 프레임워크 한성대학교 수업영상](http://www.kocw.net/home/search/kemView.do?kemId=1189891) - 기초
